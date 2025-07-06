@@ -11,10 +11,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
 ## 📊 GitHub Stats
 
 <div align="center">
