@@ -26,7 +26,7 @@
 
 ## 💖 Support My Work
 
-<div align="center">
+<div>
   
   [爱发电](https://afdian.com/a/videocaptioner)
     
@@ -34,10 +34,10 @@
 
 ## 📫 Connect with Me
 
-<div align="center">
+<div>
   
-  [!GitHub)](https://github.com/WEIFENG2333)
-  [!Email](mailto:2715673327@qq.com)
+  [GitHub)](https://github.com/WEIFENG2333)
+  [Email](mailto:2715673327@qq.com)
   
 </div>
 
