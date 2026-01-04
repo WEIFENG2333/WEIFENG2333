@@ -26,12 +26,6 @@
 
 ## 💖 Support My Work
 
-<div>
-  
-  [爱发电](https://afdian.com/a/videocaptioner)
-    
-</div>
-
 ## 📫 Connect with Me
 
 <div>
